@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+LAB1_PASS mux_4x1 cases=64
+$finish called at time : 640 ns : File "C:/Users/wlsgh/lab1_06_mux_4x1/sim/tb_mux_4x1.sv" Line 20
+The current simulation has finished. Please use 'restart' to begin a new simulation.
+$finish called at time : 640 ns : File "C:/Users/wlsgh/lab1_06_mux_4x1/sim/tb_mux_4x1.sv" Line 20
